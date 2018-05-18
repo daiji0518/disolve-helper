@@ -1,12 +1,15 @@
-{
+{git clone https://github.com/divrse/disolve-helper.git
+ cd disolve-helper
+ npm install
+ vi config.json
   "dev": false,
-  "apiKey": "YOUR_DISOLVE_API_KEY",
+  "apiKey": "4586d16f35b3b7d2f298cbcc93d464b1",
   "checkInterval": "1000",
   "sitekey": "6LeWwRkUAAAAAOBsau7KpuC9AV-6J8mhw4AjC3Xz",
   "host": "www.supremenewyork.com",
   "twocaptcha": {
     "keys": [
-      "key1",
+      "8ae77e468fdb68830878d6a0a1bc1af7",
       "key2",
       "unlimitedKeys"
     ],
@@ -27,5 +30,8 @@
       "lastKeyNoComma"
     ],
     "tasks": 2
+
+   
+    
   }
 }
